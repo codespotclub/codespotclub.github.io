@@ -1,2 +1,2 @@
-# codespotclub.github.io
+# codespot.club
 Official Website for CodeSpot 
