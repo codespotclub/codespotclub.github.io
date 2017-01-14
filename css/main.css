@@ -3,7 +3,7 @@ html, body {
     height: 100%;
     color: #555;
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-weight: 100;
     font-size: 18px;
     text-rendering: optimizeLegibility;
 }
@@ -20,16 +20,23 @@ html, body {
 }
 
 h1{
-font-size: 64px;
+font-size: 54px;
+font-weight: 100;
 }
 
-/*br{
-   display: block;
-   margin: 10px 0;
-   content: " ";
+h2{
+  font-weight: 100;
 }
-*/
+
+i{
+  font-weight: 300;
+}
 
 .card{
   background-color: white;
+  z-index: 1;
+}
+
+.em{
+  font-weight: 400;
 }
