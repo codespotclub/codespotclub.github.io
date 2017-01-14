@@ -1,9 +1,20 @@
 @media screen and (max-width: 400px) {
-
-
+	#landing{
+		padding-top: 15vh;	
+	}
 }
 
 
 @media screen and (max-width: 550px) {
+	#landing{
+		padding-top: 20vh;	
+	}
 
+	h1{
+		font-size: 40px;
+	}
+
+	h2{
+		font-size: 25px;
+	}
 }
